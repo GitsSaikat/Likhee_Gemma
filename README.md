@@ -1,4 +1,4 @@
-# Likhee: Your AI-Powered Writing Partner
+# Likhee: Write Spontaneously
 
 ![Likhee Logo](./public/images/Likhee_logo.png)
 
